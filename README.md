@@ -6,7 +6,7 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 - ✝ Roman Catholic
 - 💍 Married
 - 👶 Father
-- 📚 Dedicating a part of my life to study Mythology, Philosophy and History
+- Contributing to Open Source Projects
 
 ### Currently reading 📚
 - Works of Tolkien
