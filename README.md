@@ -6,6 +6,7 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 - ✝ Roman Catholic
 - 💍 Married
 - 👶 Father
+- 🎵 Metalhead
 - Contributing to Open Source Projects
 
 ### Currently reading 📚
