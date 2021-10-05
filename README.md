@@ -13,8 +13,7 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 
 ### Currently studying 🧠
 - Latin (with <a href="https://rafaelfalcon.com.br/">Rafael Falcón</a>)
-- C Programming Language (by the book <a href="https://www.amazon.com.br/C-Complete-Reference-Herbert-Schildt/dp/0072121246">C: The Complete Reference - Herbert Schildt</a>) 
-- Data Structures (by the book <a href="https://www.amazon.com.br/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844">Introduction to Algorithms - Thomas H. Cormen</a>)
+- More Angular
 
 ### Currently working with
 #### Front-end
