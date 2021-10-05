@@ -13,7 +13,8 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 
 ### Currently studying 🧠
 - Latin (with <a href="https://rafaelfalcon.com.br/">Rafael Falcón</a>)
-- More Angular
+- Angular with Mosh Hamedani
+- .NET with <a href="http://balta.io/">balta.io</a>
 
 ### Currently working with
 #### Front-end
@@ -35,7 +36,3 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 <div style="display: inline-block">
   <img align="center" alt="JavaScript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
 </div>
-
----
-
-##### <i>Hantanyel tulesselyanen!</i>
