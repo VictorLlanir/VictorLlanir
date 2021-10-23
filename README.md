@@ -12,7 +12,7 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 
 ### Currently studying 🧠
 - Latin (with <a href="https://rafaelfalcon.com.br/">Rafael Falcón</a>)
-- Angular with Mosh Hamedani
+- Angular with Mosh Hamedani and <a href="http://balta.io/">balta.io</a>
 - .NET with <a href="http://balta.io/">balta.io</a>
 
 ### Currently working with
