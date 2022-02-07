@@ -8,12 +8,13 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 - 👶 Father
 
 ### Currently reading 📚
-- Works of Tolkien
+- Padre Pio: The True Story - C. Bernard Ruffin
+- História de Ouro da Música - Otto Maria Carpeaux
+- Clean Code - Robert C. Martin
 
 ### Currently studying 🧠
-- Latin (with <a href="https://rafaelfalcon.com.br/">Rafael Falcón</a>)
-- Angular with Mosh Hamedani and <a href="http://balta.io/">balta.io</a>
-- .NET with <a href="http://balta.io/">balta.io</a>
+- Data Structures and Algorithgms with Mosh Hamedani and <a href="http://balta.io/">balta.io</a>
+- Flutter with <a href="http://balta.io/">balta.io</a>
 
 ### Currently working with
 #### Front-end
