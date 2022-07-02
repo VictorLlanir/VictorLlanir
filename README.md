@@ -7,15 +7,6 @@ I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 - 💍 Married
 - 👶 Father
 
-### Currently reading 📚
-- Padre Pio: The True Story - C. Bernard Ruffin
-- História de Ouro da Música - Otto Maria Carpeaux
-- Clean Code - Robert C. Martin
-
-### Currently studying 🧠
-- Data Structures and Algorithgms with Mosh Hamedani and <a href="http://balta.io/">balta.io</a>
-- Flutter with <a href="http://balta.io/">balta.io</a>
-
 ### Currently working with
 #### Front-end
 <div style="display: inline-block">
