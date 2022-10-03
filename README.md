@@ -13,8 +13,7 @@ I'm currently learning Go and willing to change my carreer to become a Go Develo
   <img align="center" alt="ASP.NET Core" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
   <img align="center" alt="Mongodb" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
   <img align="center" alt="SQLServer" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;&nbsp;
-    
-            <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+  <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
           
 </div>
 
