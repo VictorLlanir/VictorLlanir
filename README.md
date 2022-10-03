@@ -11,10 +11,7 @@ I'm currently learning Go and willing to change my carreer to become a Go Develo
 <div style="display: inline-block">
     <img align="center" alt="Angular" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />&nbsp;&nbsp;
   <img align="center" alt="ASP.NET Core" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="Mongodb" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="SQLServer" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-          
+  <img align="center" alt="Mongodb" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;          
 </div>
 
 ### Currently studying
