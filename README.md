@@ -17,5 +17,5 @@ I'm currently learning Go and willing to change my carreer to become a Go Develo
 
 ### Currently studying
 <div style="display: inline-block">
-    <img align="center" alt="Golang" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;&nbsp;     
+    <img align="center" alt="Golang" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />&nbsp;&nbsp;     
 </div>
