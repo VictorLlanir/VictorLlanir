@@ -3,27 +3,19 @@
 I'm <b>Victor Llanir</b>, a Full Stack Developer from São Paulo, Brazil.
 
 ### About me 🧔
-- ✝ Roman Catholic
-- 💍 Married
-- 👶 Father
+I'm a fullstack developer from Brazil, curious by nature, who loves to learn new things about almost everything. I've worked with automations of governmental documents emission, like CNDs and with web crawlers. I've also worked (and am currently working) in a Help Desk SaaS.
 
-### Currently working with
-#### Front-end
-<div style="display: inline-block">
-  <img align="center" alt="HTML" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="JavaScript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="TypeScript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="Angular" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />&nbsp;&nbsp;
-</div>
+I'm currently learning Go and willing to change my carreer to become a Go Developer.
 
-#### Back-end
+### Working with
 <div style="display: inline-block">
+    <img align="center" alt="Angular" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />&nbsp;&nbsp;
   <img align="center" alt="ASP.NET Core" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="C#" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="Mongodb" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="SQLServer" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;&nbsp;        
 </div>
 
-#### Database
+### Currently studying
 <div style="display: inline-block">
-  <img align="center" alt="JavaScript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+    <img align="center" alt="Golang" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;&nbsp;     
 </div>
