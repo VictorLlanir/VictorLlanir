@@ -1,11 +1,9 @@
 ## Hello there! 👍
 
-I'm <b>Victor Llanir</b>, a Full Stack Developer, roman catholic, husband, father of two based in São Paulo, Brazil.
+I'm <b>Victor Llanir</b>, a Full Stack Developer, roman catholic, husband, father of two. Based in São Paulo, Brazil.
 
 ### About me 🧔
 I'm a fullstack developer from Brazil, curious by nature, who loves to learn new things. I've worked in SaaS companies most of the time, developing and maintaining software for service desks, for the Catholic Church and for state bodies (or software that serves companies that work for them).
-
-I'm currently learning Go and willing to change my carreer to become a Go Developer.
 
 ### Working with
 <div style="display: inline-block">
